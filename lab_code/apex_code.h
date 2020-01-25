@@ -6,7 +6,8 @@
 #ifndef APEXLAB_APEX_CODE_H
 #define APEXLAB_APEX_CODE_H
 
-void minutes_to_12hour_time(std::stringstream& cin, std::stringstream& cout);
-void numbers_to_12hour_time(std::stringstream& cin, std::stringstream& cout);
+void street_address(std::stringstream& cin, std::stringstream& cout);
+void coffee_sale_item(std::stringstream& cin, std::stringstream& cout);
+void first_name_and_country(std::stringstream& cin, std::stringstream& cout);
 
 #endif //APEXLAB_APEX_CODE_H
